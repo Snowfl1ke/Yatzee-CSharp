@@ -1,0 +1,15 @@
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\bin\Debug\net9.0\Yatzee.exe
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\bin\Debug\net9.0\Yatzee.deps.json
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\bin\Debug\net9.0\Yatzee.runtimeconfig.json
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\bin\Debug\net9.0\Yatzee.dll
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\bin\Debug\net9.0\Yatzee.pdb
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.AssemblyInfoInputs.cache
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.AssemblyInfo.cs
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.csproj.CoreCompileInputs.cache
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.sourcelink.json
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.dll
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\refint\Yatzee.dll
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.pdb
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\Yatzee.genruntimeconfig.cache
+C:\Users\daanv\Desktop\les\Yatzee-CSharp\Yatzee\obj\Debug\net9.0\ref\Yatzee.dll
